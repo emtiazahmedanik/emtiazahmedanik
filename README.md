@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emtiaz Ahmed.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning android apps development.
+- 👀 Passionate Flutter developer.
+- 🌱 I’m currently learning apps development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me emtiazahmedanik4@gmail.com
 
