@@ -32,4 +32,4 @@ Sports / Game / Activities / Hobby:<br>
 ⭐[WhatsApp UI Design](https://github.com/emtiazahmedanik/Flutter-WhatsApp-Clone-Web-Mobil-Both)
 
 
-![Emtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=emtiazahmedanik&show_icons=true&hide_title=true)
+
